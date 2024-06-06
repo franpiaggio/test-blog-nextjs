@@ -78,3 +78,7 @@
       @apply w-full;
     }
   }
+
+  h1{
+    color: red;
+  }
